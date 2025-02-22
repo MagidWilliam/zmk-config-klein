@@ -3,7 +3,7 @@ id: klein
 name: klein
 type: shield
 requires: 
-  - seeed_xiao
+  - pro_micro
 features:
   - keys
   - encoder
